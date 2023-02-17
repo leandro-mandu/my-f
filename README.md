@@ -15,6 +15,8 @@ Aplicativo construido para te ajudar a controlar e organizar seus gastos, permit
 
 
 Com este aplicativo será possível organizar seus gastos em categorias de despesas customizáveis, permitindo um uso fácil e intuitivo.
+
+
 ![categ](https://user-images.githubusercontent.com/25371759/219669920-5ec73383-b1db-476d-95f7-059f85bf1df7.png)
 
 
